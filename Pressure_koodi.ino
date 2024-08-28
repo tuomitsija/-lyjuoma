@@ -1,13 +1,7 @@
 /*
-  Basic test of the Qwiic MicroPressure Sensor
-  By: Alex Wende
-  SparkFun Electronics
-  Date: July 2020
-  License: This code is public domain but you buy me a beer if you use this and we meet someday (Beerware license).
-  Feel like supporting our work? Buy a board from SparkFun!
-  https://www.sparkfun.com/products/16476
-  
-  This example demonstrates how to get started with the Qwiic MicroPressure Sensor board, and read pressures in various units.
+  Älyjuoma-automaatin painemittaukset, WLAN, Kello, SD-kortille tallennus, Thingspeakiin tiedonsiirto
+  By: Kim Tuomi
+  Date: 2022
 */
 
 // Include the SparkFun MicroPressure library.
